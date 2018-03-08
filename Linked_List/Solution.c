@@ -187,7 +187,6 @@ void reverse(){
     }
     head=prev;
 }
-
 // reverse using recursive
 
 void reverse2(struct Node* p){
